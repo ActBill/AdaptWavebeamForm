@@ -1,4 +1,4 @@
-%% 非自适应波束形成
+%% hello word!!!非自适应波束形成
 clc;
 clear all;
 close all;
